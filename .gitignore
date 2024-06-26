@@ -161,3 +161,8 @@ cython_debug/
 
 composer.phar
 src/php/vendor/
+
+
+__pycache__
+cache
+venv
